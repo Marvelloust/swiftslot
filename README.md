@@ -13,6 +13,9 @@ SwiftSlot is a full-stack booking system designed for seamless appointment sched
 - [Timezone Handling](#timezone-handling)
 - [Idempotency & Validation](#idempotency--validation)
 - [Database Models](#database-models)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Future Improvements](#future-improvements)
 
 ## Project Overview
 
@@ -162,6 +165,13 @@ swiftslot/
 - BookingSlot: `id`, `booking_id`, `vendor_id`, `slot_start_utc` (unique per vendor)
 - Payment: `id`, `booking_id`, `ref` (unique), `status`, `raw_event_json`
 - IdempotencyKey: `key`, `scope`, `response_hash`, `created_at`
+
+![Alt text](./img/1.png)
+![Alt text](./img/2.png)
+![Alt text](./img/3.png)
+![Alt text](./img/4.png)
+![Alt text](./img/5.png)
+![Alt text](./img/6.png)
 
 ## License
 
