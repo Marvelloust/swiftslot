@@ -111,16 +111,20 @@ swiftslot/
 1. Navigate to frontend folder:
 
    cd web
+   
+2. Navigate to frontend folder:
 
-2. Install dependencies:
+   cd swiftslot
+
+3. Install dependencies:
 
    npm install
 
-3. Start the frontend:
+4. Start the frontend:
 
    npm run dev
 
-4. Open your browser at `http://localhost:5173` (default Vite port).
+5. Open your browser at `http://localhost:5173` (default Vite port).
 
 
 ## Backend API Endpoints
@@ -187,4 +191,5 @@ swiftslot/
 ## License
 
 MIT License © 2025 MaffTech
+
 
