@@ -166,17 +166,24 @@ swiftslot/
 - Payment: `id`, `booking_id`, `ref` (unique), `status`, `raw_event_json`
 - IdempotencyKey: `key`, `scope`, `response_hash`, `created_at`
 
+## Home:
 ![Alt text](./img/1.png)
+
+## Slot selection:
 ![Alt text](./img/2.png)
+
+## Checkout Comfirmation:
 ![Alt text](./img/3.png)
+
+## Checkout Payment:
 ![Alt text](./img/4.png)
+
+## Booking Details:
 ![Alt text](./img/5.png)
+
+## Bookings:
 ![Alt text](./img/6.png)
 
 ## License
 
 MIT License © 2025 SwiftSlot Team
-
-
-
-
