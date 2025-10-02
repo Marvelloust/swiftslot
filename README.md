@@ -13,9 +13,6 @@ SwiftSlot is a full-stack booking system designed for seamless appointment sched
 - [Timezone Handling](#timezone-handling)
 - [Idempotency & Validation](#idempotency--validation)
 - [Database Models](#database-models)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Future Improvements](#future-improvements)
 
 ## Project Overview
 
@@ -191,5 +188,6 @@ swiftslot/
 ## License
 
 MIT License © 2025 MaffTech
+
 
 
