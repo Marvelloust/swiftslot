@@ -186,4 +186,5 @@ swiftslot/
 
 ## License
 
-MIT License © 2025 SwiftSlot Team
+MIT License © 2025 MaffTech
+
