@@ -117,11 +117,15 @@ swiftslot/
 
    npm install
 
-4. Start the frontend:
+4. Install Tailwind Version 3:
+
+   npm install -D tailwindcss@3 postcss autoprefixer
+
+5. Start the frontend:
 
    npm run dev
 
-5. Open your browser at `http://localhost:5173` (default Vite port).
+6. Open your browser at `http://localhost:5173` (default Vite port).
 
 
 ## Backend API Endpoints
@@ -188,6 +192,7 @@ swiftslot/
 ## License
 
 MIT License © 2025 MaffTech
+
 
 
 
